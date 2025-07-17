@@ -3,7 +3,7 @@
 <h3 align="center">CSE Undergrad at Green University of Bangladesh</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=#07fc94&center=true&vCenter=true&width=435&lines=Tech+%E2%9A%9C%EF%B8%8F+Health+%3D+Innovation;Building+PhysioTech+Solutions;Exploring+AI%2C+Automation%2C+and+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=07fc94&center=true&vCenter=true&width=435&lines=Tech+%E2%9A%9C%EF%B8%8F+Health+%3D+Innovation;Building+PhysioTech+Solutions;Exploring+AI%2C+Automation%2C+and+Design" alt="Typing SVG" />
 </p>
 
 ---
