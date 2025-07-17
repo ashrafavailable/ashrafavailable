@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ashraful Kabir Adib</h1>
-<h3 align="center">Business Development Officer & Creative Head at Rehab Solutions  
+<h3 align="center">Business Development Officer & Creative Head at Rehab Solutions</h3>
 <h3 align="center">CSE Undergrad at Green University of Bangladesh</h3>
 
 <p align="center">
@@ -43,7 +43,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashrafavailable&show_icons=true&theme=default" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafavailable&theme=default" height="170"/>
 </p>
 
 ---
