@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Ashraful Kabir Adib</h1>
-<h3 align="center">Business Development Officer & Creative Head at [Rehab Solutions](https://rehabsolutionsbd.com)</h3>
-<h3 align="center">CSE Undergrad at [Green University of Bangladesh](https://green.edu.bd/)</h3>
+<h3 align="center">
+  Business Development Officer & Creative Head at 
+  <a href="https://www.facebook.com/rehabsolutionsbd" target="_blank">Rehab Solutions</a><br>
+  CSE Undergrad at 
+  <a href="https://www.green.edu.bd/" target="_blank">Green University of Bangladesh</a>
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Lexend+Code&size=22&pause=1000&color=07fc94&center=true&vCenter=true&width=435&lines=Tech+%E2%9A%9C%EF%B8%8F+Health+%3D+Innovation;Building+PhysioTech+Solutions;Exploring+AI%2C+Automation%2C+and+Design" alt="Typing SVG" />
