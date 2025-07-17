@@ -2,7 +2,7 @@
 
 🎯 **Business Development Officer & Creative Head**  
 🏥 [Rehab Solutions Physiotherapy & Wellness Centre](https://rehabsolutionsbd.com)  
-💻 **CSE Undergrad** | Green University of Bangladesh  
+💻 **CSE Undergrad** | [Green University of Bangladesh](https://green.edu.bd/)
 📍 Dhaka, Bangladesh  
 
 ---
