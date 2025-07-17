@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ashraful Kabir Adib</h1>
 <h3 align="center">
   Business Development Officer & Creative Head at 
-  <a href="https://www.facebook.com/rehabsolutionsbd" target="_blank">Rehab Solutions</a><br>
+  <a href="https://rehabsolutionsbd.com" target="_blank">Rehab Solutions</a><br>
   CSE Undergrad at 
   <a href="https://www.green.edu.bd/" target="_blank">Green University of Bangladesh</a>
 </h3>
